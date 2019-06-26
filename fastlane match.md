@@ -43,3 +43,16 @@ fastlane match appstore
 # for development
 fastlane match development
 ```
+
+This will create a new certificate and provisioning profile (if required) and store them in your selected storage.
+If you previously ran match with the configured storage it will automatically install the existing profiles from your storage.
+
+The provisioning profiles are installed in ~/Library/MobileDevice/Provisioning Profiles while the certificates and private keys are installed in your Keychain.
+
+To get a more detailed output of what match is doing run:
+
+```
+fastlane match --verbose
+```
+
+
