@@ -1,4 +1,4 @@
-# CI-CD-Doc
+# Fastlane
 
 The easiest way to automate beta deployments and releases for your iOS.
 
@@ -17,3 +17,5 @@ sudo gem install fastlane -NV
 # Alternatively using Homebrew
 brew cask install fastlane
 ```
+
+#fastlane setup
