@@ -1,10 +1,16 @@
 # Install gitlab runner
 
+GitLab Runner can be installed and updated on macOS.
+
 # Fastlane installation
+
+The easiest way to automate beta deployments and releases for your iOS.
 
 [Install fastlane](https://github.com/Mustafa-Ezzat/CI-CD-Doc/blob/master/fastlane%20install.md)
 
 # Fastlane match
+
+Alias for the sync_code_signing action
 
 [fastlane match](https://github.com/Mustafa-Ezzat/CI-CD-Doc/blob/master/fastlane%20match.md)
 
