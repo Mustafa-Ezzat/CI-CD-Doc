@@ -1,5 +1,5 @@
 # CI-CD-Doc
 
-# Install fastlane:
+# Install gitlab-runner on machine (Onsite or Cloud):
 
-[Install fastlane](https://github.com/Mustafa-Ezzat/CI-CD-Doc/blob/master/fastlane%20install.md)
+[Install gitlab runner](https://github.com/Mustafa-Ezzat/CI-CD-Doc/blob/master/Install%20gitlab%20runner.md)
