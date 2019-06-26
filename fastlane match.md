@@ -10,6 +10,9 @@ A new approach to iOS code signing: Share one code signing identity across your 
 
 Before starting to use match, make sure to read [the codesigning.guide](https://codesigning.guide/)
 
+# Create git repository
+
+like this one: https://github.com/fastlane/certificates
 
 # fastlane match setup
 Navigate your terminal to your project's directory and run
