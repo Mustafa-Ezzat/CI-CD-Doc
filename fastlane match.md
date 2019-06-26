@@ -55,4 +55,7 @@ To get a more detailed output of what match is doing run:
 fastlane match --verbose
 ```
 
+# Passphrase
+
+When running match for the first time on a new machine, it will ask you for the passphrase for the Git repository.
 
