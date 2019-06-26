@@ -5,7 +5,6 @@ The easiest way to automate beta deployments and releases for your iOS.
 
 Install the latest Xcode command line tools:
 
-'''
+```
 xcode-select --install
-'''
-
+```
