@@ -1,4 +1,4 @@
-# Fastlane install
+# Fastlane installation
 
 [Install fastlane](https://github.com/Mustafa-Ezzat/CI-CD-Doc/blob/master/fastlane%20install.md)
 
@@ -6,11 +6,11 @@
 
 [fastlane match](https://github.com/Mustafa-Ezzat/CI-CD-Doc/blob/master/fastlane%20match.md)
 
-# Python Install
+# Python installation
 
 [Install Python](https://www.python.org/downloads/mac-osx/)
 
-# AWS Install
+# AWS installation
 
 [Install AWS](https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html)
 
@@ -38,7 +38,7 @@ aws --version
 fastlane add_plugin changelog
 ```
 
-# Install swiftlint
+# Swiftlint installation
 
 ```
 brew doctor
