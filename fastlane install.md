@@ -14,8 +14,12 @@ xcode-select --install
 # Using RubyGems
 sudo gem install fastlane -NV
 
+# Permission issue
+gem install fastlane -NV --user-install
+
 # Alternatively using Homebrew
 brew cask install fastlane
+
 ```
 
 # fastlane setup
